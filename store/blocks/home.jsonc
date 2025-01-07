@@ -1,0 +1,14 @@
+{
+  "store.home": { 
+    "blocks": [
+      "rich-text#title",
+      "question-wrapper"
+    ]
+  },
+  "rich-text#title": { 
+    "props": { 
+      "text": "# Trivia",
+      "textPosition": "CENTER"
+    }
+  }
+}
